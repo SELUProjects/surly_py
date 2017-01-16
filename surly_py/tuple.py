@@ -1,6 +1,6 @@
 from attribute import Attribute
 
-class Tuply:
+class Tuple:
 	"""docstring for Tuple"""
-	def __init__(self, arg):
+	def __init__(self, arg=None):
 		self.arg = arg

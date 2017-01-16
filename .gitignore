@@ -1,1 +1,3 @@
 venv/
+*.pyc
+surly_py/__pycache__/
